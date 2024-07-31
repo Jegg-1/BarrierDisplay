@@ -1,0 +1,15 @@
+{
+  "name": "com.hms.barrierdisplay",
+  "version": "1.0.0",
+  "displayName": "Barrier Display",
+  "license": "MIT",
+  "keywords": [
+    "barrier",
+    "display",
+    "collider",
+    "clips",
+    "clip",
+    "bounds",
+    "bound"
+  ]
+}

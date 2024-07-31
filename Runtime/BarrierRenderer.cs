@@ -4,7 +4,7 @@ using System.Collections.Generic;
 namespace BarrierDisplay
 {
     [DisallowMultipleComponent]
-    sealed class BarrierRenderer : MonoBehaviour
+    public class BarrierRenderer : MonoBehaviour
     {
         static List<BarrierRenderer> barriers = new List<BarrierRenderer>();
 
