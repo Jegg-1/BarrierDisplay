@@ -6,7 +6,7 @@ namespace BarrierDisplay.Editor
 {
     public class BarrierDisplayMenu : EditorWindow
     {
-        [MenuItem("Tools/Barrier Rendering Menu")]
+        [MenuItem("Tools/Barrier Display Menu")]
         public static void OpenMenu()
         {
             BarrierDisplayMenu window = GetWindow<BarrierDisplayMenu>();
